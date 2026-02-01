@@ -1,0 +1,1 @@
+# 32.-Star-pattern-using-nested-for-loop-Pattern
